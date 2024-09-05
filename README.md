@@ -1,22 +1,11 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hey there 👋, I am SATYAM NIRMAL</h1>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+# 👋 Hi, I'm Satyam Nirmal!
 
-### About Me 🚀
-<div>
-<p>
+**Software Engineer | Open Source Enthusiast | Problem Solver**
 
-</p>
-</div>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+Welcome to my GitHub! I'm a passionate software engineer with a love for solving real-world problems through code. I enjoy contributing to open-source projects and learning about new technologies. Check out my repositories to see some of the work I've done!
 
-### Working On ⚡️
+### Working On ⚡
 - Tweaking This [Readme file 🔎](https://github.com/SatyamNirmal134/SatyamNirmal134/tree/main) For Optimal Engagement
 <div align="left">
     <div align="left">
@@ -83,14 +72,14 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://www.linkedin.com/in/saikrishn-shelar-168787294/">
+      <a href=" https://www.linkedin.com/in/satyam-nirmal-1658312a3">
       <img src="https://skillicons.dev/icons?i=linkedin" />
       </a>
       <br>Linkedin
     </td>
     <td align="center" width="150">
        <a href="https://www.instagram.com">
-       <img src="https://skillicons.dev/icons?i=instagram" />
+       <img src=" https://www.instagram.com/satyam_nirmal_patil?igsh=ZzdneWcxNzR1a3Nn" />
        </a>
       <br>Instagram
     </td>
@@ -130,7 +119,7 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-<h2 align="center">⚡️ Still Counting ⚡️</h2>
+<h2 align="center">⚡ Still Counting ⚡</h2>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=SaikrishnShelar&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
