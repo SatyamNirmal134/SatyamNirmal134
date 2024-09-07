@@ -94,44 +94,4 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
 
 
 
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
-<br/>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SaikrishnShelar&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
-  <br/><br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SaikrishnShelar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" />
-  <br/><br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam Nirmal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Commits <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
-<div align="center">
-  <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=SaikrishnShelar&theme=react-dark&radius=16&hide_border=false" alt="activity graph"/>
-</div>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h2 align="center">⚡ Still Counting ⚡</h2>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaikrishnShelar&style=for-the-badge&color=blueviolet" alt=""/>
-</div>
-<p align="center">
-  <a href="https://github.com/SaikrishnShelar?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SaikrishnShelar"/>
-  </a>
-  <a href="https://github.com/SaikrishnShelar?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/SaikrishnShelar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</p>
 
-
-<h3 align="center">Hope You Loved the Profile! Make Sure You Follow For More Interesting Content</h3>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
