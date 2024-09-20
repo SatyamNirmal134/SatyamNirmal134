@@ -72,13 +72,12 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
 <table>
   <tr>
     <td align="center" width="150">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/satyam-nirmal-1658312a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/">
+  <a href="https://www.linkedin.com/in/satyam-nirmal-1658312a3">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <br>LinkedIn
 </td>
-
-      <td align="center" width="150">
+<td align="center" width="150">
       <a href="https://www.instagram.com/satyam_nirmal_patil?igsh=ZzdneWcxNzR1a3Nn">
       <img src="https://skillicons.dev/icons?i=instagram" />
       </a>
