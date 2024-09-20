@@ -25,7 +25,7 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
       <td align="center" width="120">
         <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python" />
-        </a>
+        </a>   
         <br>Python
       </td>
       <td align="center" width="120">
